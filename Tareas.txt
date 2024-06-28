@@ -1,0 +1,13 @@
+User -- Finalizado
+UserDatabase.cpp -- Finalizado
+Server ? Para verificar logins, cambiar contraseñas, opciones de administrador....
+
+SystemAlarm que tenga todos los sensores, se puedan añadir, y quitar sensores.....y que se puedan manejar y si salta alguna alarma pasa algo(mensaje, correo....)
+Sensor y todos los sensores -- Finalizado
+
+Hardware:
+    Teclado
+    Pantalla
+    Microfono
+    Interruptor
+
